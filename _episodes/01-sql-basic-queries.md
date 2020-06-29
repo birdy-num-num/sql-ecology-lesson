@@ -10,8 +10,10 @@ objectives:
 - "Sort the results of a query."
 keypoints:
 - "It is useful to apply conventions when writing SQL queries to aid readability."
-- "Use logical connectors such as AND or OR to create more complex queries."
-- "Calculations using mathematical symbols can also be performed on SQL queries."
+- "All columns, or a subset of columns can be retrieved in the SELECT clause"
+- "Arithmetic operations can be performed on numeric columns in the SELECT clause"
+- "The number of rows returned can be limited numerically (LIMIT clause), or logically (WHERE clause)."
+- "The returned rows can be sorted in ascending or descending order using any combinaton of columns."
 - "Adding comments in SQL helps keep complex queries understandable."
 ---
 
